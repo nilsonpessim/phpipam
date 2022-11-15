@@ -58,11 +58,11 @@ rm /var/www/html/index.html
 ```
 find /var/www/* -type d -exec chmod 755 {} \;
 find /var/www/* -type f -exec chmod 644 {} \;
-cd /var/www/html/
 ```
 
 * Arquivo de Configurações
 ```
+cd /var/www/html/
 cp config.dist.php config.php
 nano config.php
 
