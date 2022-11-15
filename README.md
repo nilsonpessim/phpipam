@@ -60,6 +60,8 @@ find /var/www/* -type d -exec chmod 755 {} \;
 find /var/www/* -type f -exec chmod 644 {} \;
 ```
 
+--- 
+
 * Arquivo de Configurações
 ```
 cd /var/www/html/
