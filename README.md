@@ -4,7 +4,17 @@
 
 ### Instalação do Gestor de IPS PHPIPAM
 
+## :computer: Requisitos do Sistema
+ 
+* :cd: Ubuntu 18.04 Server (ISO ou CT).
+* :heavy_check_mark: Processador: 2 vCPU.
+* :heavy_check_mark: Memória RAM: 4GB.
+* :heavy_check_mark: Armazenamento: 50GB.
+* :heavy_check_mark: PHP 7.2+ e MySQL.
+
 ---
+
+## :computer: Instalação
 
 * Preparação do Ambiente - Ubuntu 18.04:
 ```
